@@ -1,0 +1,8 @@
+site_name: "customer-api-bsosnowski"
+site_description: "A service that calls a backend customer service using Flogo - developped by Bartosz"
+
+nav:
+  - Introduction: README.md
+
+plugins:
+  - techdocs-core
